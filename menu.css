@@ -1,0 +1,72 @@
+*{
+    margin: 0px;
+    padding: 0;
+}
+
+
+
+body{
+    background-color: blueviolet;
+    height: 60pc;
+    margin: 0px;
+}
+
+
+h1{
+    color: white;
+    text-align: center;
+}
+
+p{
+    color: white;
+    text-align: center;
+}
+.btn{
+    background-color: white;
+    width: 10rem;
+    height: 3rem;
+    margin-left: 45%;
+    margin-top: 1rem;
+}
+.previus-header{
+    background-color: white;
+    height: 80px;
+    width: 100%;
+    border: none;
+}
+img{ 
+    width: 300px; 
+    height: 300px; 
+    margin-top: 3rem; 
+    display: flex;
+    margin-left: 15px;
+}
+.m{
+    display: flex;
+    margin-left: 200px;
+    margin-left: 20%;
+}
+
+
+.k{
+    margin-right: 40px;
+    color: lightslategray;
+}
+
+.p{
+    margin-right: 40px;
+    color: lightslategray;
+
+}
+
+.r{
+    margin-right: 40px;
+    color:lightslategray;
+}
+.next-kbc{
+    border: none;
+    height: 90px;
+    position: relative;
+    background-color: grey;
+    margin-top: 13%;
+}
